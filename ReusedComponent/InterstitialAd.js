@@ -3,7 +3,7 @@ import { InterstitialAd, AdEventType, TestIds } from "react-native-google-mobile
 
 const adUnitId = __DEV__
   ? TestIds.INTERSTITIAL
-  : "ca-app-pub-3940256099942544/1033173712"; // ganti dengan ID interstitialmu
+  : "ca-app-pub-8058088126089237/2323479533"; // ganti dengan ID interstitialmu
 
 class InterstitialAdManager {
   constructor() {

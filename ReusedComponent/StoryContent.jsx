@@ -54,7 +54,7 @@ function StoryContent() {
       </ScrollView>
 
       {/* Banner hovering bawah */}
-      <AppBannerAd />
+      {/* <AppBannerAd /> */}
     </View>
   );
 }

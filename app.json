@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "jpstories",
+    "name": "Japanese Story and Quiz",
     "slug": "jpstories",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -10,7 +10,7 @@
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#EEDDC8"
     },
     "ios": {
       "supportsTablet": true
@@ -18,10 +18,11 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#EEDDC8"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.finnam2021.jpstories"
+      "package": "com.finnam2021.jpstories",
+      "versionCode" : 1
     },
     "web": {
       "favicon": "./assets/favicon.png"

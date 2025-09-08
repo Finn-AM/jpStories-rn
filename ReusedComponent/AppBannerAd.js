@@ -5,7 +5,7 @@ import { BannerAd, BannerAdSize, TestIds } from "react-native-google-mobile-ads"
 
 const bannerAdUnitId = __DEV__
   ? TestIds.BANNER
-  : "ca-app-pub-3940256099942544/6300978111"; // ganti dengan ID aslimu
+  : "ca-app-pub-8058088126089237/9452280072"; // ganti dengan ID aslimu
 
 export default function AppBannerAd() {
   return (
